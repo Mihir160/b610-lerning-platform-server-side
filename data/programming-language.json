@@ -1,0 +1,229 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "course_name": "Python",
+    "category_id": "01",
+    "title": "Professional Programming With Python",
+    "description": "Python tutorial provides basic and advanced concepts of Python. Our Python tutorial is designed for beginners and professionals.Python is a simple, general purpose, high level, and object-oriented programming language.Through this course, students can add it to their cv, which makes it easier for them to get a job.",
+    "image_url": "https://blog.eduonix.com/wp-content/uploads/2018/09/Scientific-Python-Scipy-696x500.jpg",
+    "details": [
+      {
+        "title": "Intro to computer programming with python.",
+        "topic": "How python execution works.",
+        "topic1": "Python install",
+        "topic2": "Python Application",
+        "topic3": "python Example"
+      },
+      {
+        "title": "Intro to Basic",
+        "topic": "Python Basic Syntax",
+        "topic1": "Python Variables Types",
+        "topic2": "Python Basic Operators",
+        "topic3": "python Loops"
+      },
+      {
+        "title": "Python Data structure",
+        "topic": "python Data Types",
+        "topic1": "Built-in data structure",
+        "topic2": "Define Data Structure",
+        "topic3": "Practice"
+      },
+      {
+        "title": "Python Advanced",
+        "topic": "Python Classes/Object",
+        "topic1": "Python Reg-Expressions",
+        "topic2": "Python Inheritance and Abstraction.",
+        "topic3": "python Function overloading."
+      }
+    ]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "category_id": "03",
+    "course_name": "Java",
+    "title": "Professional Programming With Java",
+    "description": "This Java Tutorial has been prepared by well experienced Java Programmers for the Software Engineers to help them understand the basic to advanced concepts of Java Programming Language. After completing this tutorial, you will find yourself at a moderate level of expertise in Java, from where you can take yourself to the next levels.",
+    "image_url": "https://content.techgig.com/photo/82064046/Essentials-of-Java-programming-that-every-beginner-should-know.jpg",
+    "details": [
+      {
+        "title": "Intro to computer programming with Java.",
+        "topic": "How java execution works.",
+        "topic1": "Java install",
+        "topic2": "Java Application",
+        "topic3": "Java Example"
+      },
+      {
+        "title": "Intro to Basic",
+        "topic": "Java Basic Syntax",
+        "topic1": "Java Variables Types",
+        "topic2": "Java Basic Operators",
+        "topic3": "Java Loops"
+      },
+      {
+        "title": "Java Data structure",
+        "topic": "Java Data Types",
+        "topic1": "Built-in data structure",
+        "topic2": "Define Data Structure",
+        "topic3": "Practice"
+      },
+      {
+        "title": "Java Advanced",
+        "topic": "Java Classes/Object",
+        "topic1": "Java Reg-Expressions",
+        "topic2": "Java Inheritance and Abstraction.",
+        "topic3": "Java Function overloading."
+      }
+    ]
+  },
+
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "category_id": "01",
+    "title": "Backend Development with Django",
+    "description": "Django is a web development framework that assists in building and maintaining quality web applications. Django helps eliminate repetitive tasks making the development process an easy and time saving experience. This tutorial gives a complete understanding of Django.",
+    "image_url": "https://blog.hachther.com/wp-content/uploads/2017/12/django-documentation.png",
+    "details": [
+      {
+        "title": "Intro to computer programming with Django.",
+        "topic": "How Django execution works.",
+        "topic1": "Django install",
+        "topic2": "Django Application",
+        "topic3": "Django Example"
+      },
+      {
+        "title": "Python Language Fundamental.",
+        "topic": "Python fundamentals",
+        "topic1": "Python OOP Concepts",
+        "topic2": "Python Error Handling",
+        "topic3": "Python Backend Concepts"
+      },
+      {
+        "title": "Creating Server",
+        "topic": "Walkthrough Django Project",
+        "topic1": "A Detailed Discussion of Each Module.",
+        "topic2": "How Django works as a Backend Framework.",
+        "topic3": "Create Different Apps in One Project."
+      },
+      {
+        "title": "Creating Django App.",
+        "topic": "Enable the Apps in the Django Settings.",
+        "topic1": "How to Work with Different Django apps from the Same Project.",
+        "topic2": "How to Manage each App.",
+        "topic3": "Individual Project Planning for each student."
+      }
+
+    ]
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "category_id": "02",
+    "title": "Professional Programming With ReactJs",
+    "description": "React is an open source, JavaScript library for developing user interface (UI) in web application. React is developed and released by Facebook. Facebook is continuously working on the React library and enhancing it by fixing bugs and introducing new features. This tutorial starts with the architecture of React, how-to guide to setup projects, creating components, JSX and then walks through advanced concepts like state management, form programming, routing and finally conclude with step by step working example.",
+    "image_url": "https://wallpaperbat.com/img/641219-react-js-wallpaper-top-free-react-js-background.jpg",
+    "details": [
+      {
+        "title": "Introduction to ReactJs",
+        "topic": "How ReactJs execution works.",
+        "topic1": "React install",
+        "topic2": "React Application",
+        "topic3": "React Example"
+      },
+      {
+        "title": "Intro to Basic",
+        "topic": "React Basic Syntax",
+        "topic1": "Understanding JSX",
+        "topic2": "Intro Props and States",
+        "topic3": "React Architecture"
+      },
+      {
+        "title": "React Component",
+        "topic": "Class Component",
+        "topic1": "Functional Component",
+        "topic2": "ReactJS LifeCycle",
+        "topic3": "React Event management"
+      },
+      {
+        "title": "React Hooks",
+        "topic": "UseState",
+        "topic1": "UseEffect",
+        "topic2": "useHref",
+        "topic3": "useLoaderData"
+      }
+
+    ]
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": "03",
+    "title": "Lear PHP",
+    "description": "The PHP Hypertext Preprocessor (PHP) is a programming language that allows web developers to create dynamic content that interacts with databases. PHP is basically used for developing web based software applications. This tutorial helps you to build your base with PHP.",
+    "image_url": "https://img.freepik.com/premium-photo/php-programming-code-abstract-technology-background_272306-152.jpg?w=2000",
+    "details": [
+      {
+        "title": "Introduction to PHP",
+        "topic": "PHP full form",
+        "topic1": "PHP, a server side programming language",
+        "topic2": "PHP, an interpreted programming language",
+        "topic3": "Installing PHP and IDE for development"
+      },
+      {
+        "title": "Basic Programming Syntax",
+        "topic": "Statements, Variables",
+        "topic1": "Function, Constants",
+        "topic2": "Operators, Decision making",
+        "topic3": "Loops, Comments"
+      },
+      {
+        "title": "Array and String",
+        "topic": "Types of array",
+        "topic1": "Important array and string function",
+        "topic2": "Multi dimensional array operations",
+        "topic3": "Relationship with characters"
+      },
+      {
+        "title": "Object oriented PHP",
+        "topic": "Introduction to class and constructors",
+        "topic1": "Inheritance and Interface in PHP",
+        "topic2": "Abstract class in PHP",
+        "topic3": "Method overloading and overriding"
+      }
+    ]
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f8",
+    "category_id": "03",
+    "title": "Professional Programming with C#",
+    "description": "C# is a simple, modern, general-purpose, object-oriented programming language developed by Microsoft within its .NET initiative led by Anders Hejlsberg. This tutorial will teach you basic C# programming and will also take you through various advanced concepts related to C# programming language.",
+    "image_url": "https://www.luisdev.com.br/wp-content/uploads/2021/03/Desktop-1.png",
+    "details": [
+      {
+        "title": "Working with basic data types",
+        "topic": "C# data types",
+        "topic1": "Variables & constants",
+        "topic2": "Array, Multidimensional Array, Jagged Array",
+        "topic3": "Input / Output processing"
+      },
+      {
+        "title": "Statements & Operators",
+        "topic": "Conditional statements",
+        "topic1": "Arithmetical operators",
+        "topic2": "Bitwise operators",
+        "topic3": " Logical operators"
+      },
+      {
+        "title": "Working with Class",
+        "topic": "Class, Namespaces,Field, properties",
+        "topic1": " Auto properties, Access Modifiers",
+        "topic2": "Constructor, Destructor/Finalizer",
+        "topic3": " Readonly, const keywords"
+      },
+      {
+        "title": "More with Classes",
+        "topic": "Static Class,Abstract Class",
+        "topic1": "Interface",
+        "topic2": "Override, virtual, new, sealed keywords",
+        "topic3": "Partial Class"
+      }
+    ]
+  }
+]
