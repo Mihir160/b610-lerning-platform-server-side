@@ -16,7 +16,7 @@ app.get('/course/:id',(req, res)=>{
     const id = req.params.id
     const selectedCourse = courses.find(n => n.courseName_id === id)
     res.send(selectedCourse)
-    console.log(req.params)
+    
 })
 app.listen(port, () => {
     console.log('Server running on port test', port)
