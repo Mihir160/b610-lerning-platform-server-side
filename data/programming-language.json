@@ -2,7 +2,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "course_name": "Python",
-    "category_id": "01",
+    "courseName_id": "01",
     "title": "Professional Programming With Python",
     "description": "Python tutorial provides basic and advanced concepts of Python. Our Python tutorial is designed for beginners and professionals.Python is a simple, general purpose, high level, and object-oriented programming language.Through this course, students can add it to their cv, which makes it easier for them to get a job.",
     "image_url": "https://blog.eduonix.com/wp-content/uploads/2018/09/Scientific-Python-Scipy-696x500.jpg",
@@ -39,7 +39,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-    "category_id": "03",
+    "courseName_id": "02",
     "course_name": "Java",
     "title": "Professional Programming With Java",
     "description": "This Java Tutorial has been prepared by well experienced Java Programmers for the Software Engineers to help them understand the basic to advanced concepts of Java Programming Language. After completing this tutorial, you will find yourself at a moderate level of expertise in Java, from where you can take yourself to the next levels.",
@@ -78,7 +78,8 @@
 
   {
     "_id": "f69a695f037cd9484cecaea37ca71011",
-    "category_id": "01",
+    "courseName_id": "03",
+    "course_name": "Django",
     "title": "Backend Development with Django",
     "description": "Django is a web development framework that assists in building and maintaining quality web applications. Django helps eliminate repetitive tasks making the development process an easy and time saving experience. This tutorial gives a complete understanding of Django.",
     "image_url": "https://blog.hachther.com/wp-content/uploads/2017/12/django-documentation.png",
@@ -116,7 +117,8 @@
   },
   {
     "_id": "f69a695f037cd9484cecaea37ca71012",
-    "category_id": "02",
+    "courseName_id": "04",
+    "course_name": "ReactJs",
     "title": "Professional Programming With ReactJs",
     "description": "React is an open source, JavaScript library for developing user interface (UI) in web application. React is developed and released by Facebook. Facebook is continuously working on the React library and enhancing it by fixing bugs and introducing new features. This tutorial starts with the architecture of React, how-to guide to setup projects, creating components, JSX and then walks through advanced concepts like state management, form programming, routing and finally conclude with step by step working example.",
     "image_url": "https://wallpaperbat.com/img/641219-react-js-wallpaper-top-free-react-js-background.jpg",
@@ -154,7 +156,8 @@
   },
   {
     "_id": "11468ed61aee84de492a8b04158a22f9",
-    "category_id": "03",
+    "courseName_id": "05",
+    "course_name": "PHP",
     "title": "Lear PHP",
     "description": "The PHP Hypertext Preprocessor (PHP) is a programming language that allows web developers to create dynamic content that interacts with databases. PHP is basically used for developing web based software applications. This tutorial helps you to build your base with PHP.",
     "image_url": "https://img.freepik.com/premium-photo/php-programming-code-abstract-technology-background_272306-152.jpg?w=2000",
@@ -191,7 +194,8 @@
   },
   {
     "_id": "11468ed61aee84de492a8b04158a22f8",
-    "category_id": "03",
+    "courseName_id": "06",
+    "course_name": "C#",
     "title": "Professional Programming with C#",
     "description": "C# is a simple, modern, general-purpose, object-oriented programming language developed by Microsoft within its .NET initiative led by Anders Hejlsberg. This tutorial will teach you basic C# programming and will also take you through various advanced concepts related to C# programming language.",
     "image_url": "https://www.luisdev.com.br/wp-content/uploads/2021/03/Desktop-1.png",
