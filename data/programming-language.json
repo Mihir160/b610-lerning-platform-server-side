@@ -6,6 +6,8 @@
     "title": "Professional Programming With Python",
     "description": "Python tutorial provides basic and advanced concepts of Python. Our Python tutorial is designed for beginners and professionals.Python is a simple, general purpose, high level, and object-oriented programming language.Through this course, students can add it to their cv, which makes it easier for them to get a job.",
     "image_url": "https://blog.eduonix.com/wp-content/uploads/2018/09/Scientific-Python-Scipy-696x500.jpg",
+    "price": "$48",
+    "rating": 4.5,
     "details": [
       {
         "title": "Intro to computer programming with python.",
@@ -44,6 +46,8 @@
     "title": "Professional Programming With Java",
     "description": "This Java Tutorial has been prepared by well experienced Java Programmers for the Software Engineers to help them understand the basic to advanced concepts of Java Programming Language. After completing this tutorial, you will find yourself at a moderate level of expertise in Java, from where you can take yourself to the next levels.",
     "image_url": "https://content.techgig.com/photo/82064046/Essentials-of-Java-programming-that-every-beginner-should-know.jpg",
+    "price": "$40",
+    "rating": 4.0,
     "details": [
       {
         "title": "Intro to computer programming with Java.",
@@ -83,6 +87,8 @@
     "title": "Backend Development with Django",
     "description": "Django is a web development framework that assists in building and maintaining quality web applications. Django helps eliminate repetitive tasks making the development process an easy and time saving experience. This tutorial gives a complete understanding of Django.",
     "image_url": "https://blog.hachther.com/wp-content/uploads/2017/12/django-documentation.png",
+    "price": "$38",
+    "rating": 3.5,
     "details": [
       {
         "title": "Intro to computer programming with Django.",
@@ -122,6 +128,8 @@
     "title": "Professional Programming With ReactJs",
     "description": "React is an open source, JavaScript library for developing user interface (UI) in web application. React is developed and released by Facebook. Facebook is continuously working on the React library and enhancing it by fixing bugs and introducing new features. This tutorial starts with the architecture of React, how-to guide to setup projects, creating components, JSX and then walks through advanced concepts like state management, form programming, routing and finally conclude with step by step working example.",
     "image_url": "https://wallpaperbat.com/img/641219-react-js-wallpaper-top-free-react-js-background.jpg",
+    "price": "$20",
+    "rating": 4.0,
     "details": [
       {
         "title": "Introduction to ReactJs",
@@ -199,6 +207,8 @@
     "title": "Professional Programming with C#",
     "description": "C# is a simple, modern, general-purpose, object-oriented programming language developed by Microsoft within its .NET initiative led by Anders Hejlsberg. This tutorial will teach you basic C# programming and will also take you through various advanced concepts related to C# programming language.",
     "image_url": "https://www.luisdev.com.br/wp-content/uploads/2021/03/Desktop-1.png",
+    "price": "$20",
+    "rating": 2.5,
     "details": [
       {
         "title": "Working with basic data types",
